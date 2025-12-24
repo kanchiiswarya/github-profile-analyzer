@@ -28,17 +28,6 @@ The app displays repository statistics, filtering options, and language visualiz
 
 ---
 
-## Project Structure
-
-github-profile-analyzer/
-│
-├── app.py
-├── README.md
-├── requirements.txt
-└── .gitignore
-
----
-
 ## Setup Instructions
 
 Clone the repository:
