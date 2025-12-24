@@ -1,4 +1,4 @@
-Live App: https://<GitHub Profile Analyzer>.streamlit.app
+Live App: https://app-profile-analyzer-xjpkhqdvuaxwfgxiafczeg.streamlit.app/
 # GitHub Profile Analyzer
 
 A Streamlit web application that analyzes a GitHub user's public repositories using the GitHub API.
