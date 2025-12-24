@@ -71,7 +71,7 @@ The app will open automatically in your browser.
 
 - The venv folder is excluded from GitHub using .gitignore
 - Uses GitHub public API (no authentication required)
-- Best tested with users having multiple repositories (example: torvalds)
+- Best tested with users having multiple repositories 
 
 ---
 
